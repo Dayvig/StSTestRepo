@@ -1,0 +1,6 @@
+{
+  "${ModID}:DemonShade": {
+    "NAME": "Demon Shade",
+    "DESCRIPTION": ["When you enter this, gain 4 Vigor and shift all shifting cards to demon form. NL When you exit this stance, shift them back."]
+  }
+}

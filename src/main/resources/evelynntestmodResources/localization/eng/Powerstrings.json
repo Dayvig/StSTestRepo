@@ -1,0 +1,29 @@
+{
+  "${ModID}:ExampleTwoAmount": {
+    "NAME": "Example 2",
+    "DESCRIPTIONS": [
+      "Amount is #b",
+      ".  Amount2 is #b",
+      "."
+    ]
+  },
+  "${ModID}:FancyDressPower": {
+    "NAME": "Fancy Dress",
+    "DESCRIPTIONS": [
+      "At the end of the turn, gain ",
+      " block for each debuffed enemy. NL Playing a new Outfit will remove this power and add a #yFancy #yDress to your draw pile and reduce its cost by 1."
+    ]
+  },
+  "${ModID}:MindControlledPower": {
+    "NAME": "Mind Controlled",
+    "DESCRIPTIONS": [
+      "Fights for you"
+    ]
+  },
+  "${ModID}:CharmPower": {
+    "NAME": "Charm",
+    "DESCRIPTIONS": [
+      "When charm exceeds HP, this enemy fights for you."
+    ]
+  }
+}
